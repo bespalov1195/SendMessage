@@ -1,5 +1,5 @@
-# sendme
-sendme is a console application to send dump of CAN logs using CHAI library
+# SendMessage
+SendMessage is a console application to send dump of CAN logs using CHAI library
 
 ## Description
 sendme is a console application to send logs using CAN CHAI library.
